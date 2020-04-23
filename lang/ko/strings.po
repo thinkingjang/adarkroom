@@ -1067,7 +1067,7 @@ msgstr "방"
 
 #: script/room.js:485 script/room.js:604
 msgid "A Dark Room"
-msgstr "어두운 방"
+msgstr "어두운 방-현서"
 
 #: script/room.js:498
 msgid "light fire"
